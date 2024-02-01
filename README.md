@@ -11,3 +11,8 @@ The primary objective of this Power BI analysis is to provide a comprehensive un
 
 
 ![Screenshot 2024-02-01 at 18 10 53](https://github.com/Kinzali/Power-BI-Telecom-Analysis/assets/121554533/451cfacd-7f83-4c9f-bbbb-dd3485cd633b)
+
+
+## Conclusions
+The Network average User throughput is 36.28 Mbp/s and on Average a user spends 1.62 minutes below the target throughput. Sector 4xyz_2 is the best-performing sector with highest average user throughput while  4xyz_3 is worst performing sector with the lowest User throughput and highest Usr DL time.
+  
