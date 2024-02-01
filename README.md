@@ -6,3 +6,8 @@ In the realm of telecom performance, the challenge lies in optimizing network ef
 
 ## Objective:
 The primary objective of this Power BI analysis is to provide a comprehensive understanding of telecom performance metrics, focusing on average user throughput and user DL time per user. By discerning the best-performing sectors with the highest user throughput and lower DL times, as well as identifying the underperforming sectors with lower user throughput and higher DL times, the goal is to empower stakeholders with actionable insights. This project aims to guide strategic decision-making for network optimization, ultimately improving the quality of service and user satisfaction.
+
+## Power BI Dashboard  (Analysed results)
+
+
+![Screenshot 2024-02-01 at 18 10 53](https://github.com/Kinzali/Power-BI-Telecom-Analysis/assets/121554533/451cfacd-7f83-4c9f-bbbb-dd3485cd633b)
